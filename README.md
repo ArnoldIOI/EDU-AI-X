@@ -1,0 +1,2 @@
+# EDU-AI-X
+EDU∩AI∩ME
