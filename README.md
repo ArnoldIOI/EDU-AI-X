@@ -2,6 +2,7 @@
 EDU∩AI∩ME
 
 ## Paper
+- PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing | [Paper](https://arxiv.org/abs/2407.16318) | [Code](https://github.com/dynamofl/PrimeGuard)
 - Course-Correction: Safety Alignment Using Synthetic Preferences | [Paper](https://arxiv.org/abs/2407.16637) | [Code](https://github.com/pillowsofwind/Course-Correction)
 - Simulating Classroom Education with LLM-Empowered Agents | [Paper](https://arxiv.org/abs/2406.19226)
 - The HaLLMark Effect: Supporting Provenance and Transparent Use of Large Language Models in Writing with Interactive Visualization | [Paper](https://dl.acm.org/doi/full/10.1145/3613904.3641895)
